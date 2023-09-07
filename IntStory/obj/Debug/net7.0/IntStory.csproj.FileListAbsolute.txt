@@ -1,0 +1,14 @@
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\bin\Debug\net7.0\IntStory.exe
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\bin\Debug\net7.0\IntStory.deps.json
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\bin\Debug\net7.0\IntStory.runtimeconfig.json
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\bin\Debug\net7.0\IntStory.dll
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\bin\Debug\net7.0\IntStory.pdb
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\obj\Debug\net7.0\IntStory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\obj\Debug\net7.0\IntStory.AssemblyInfoInputs.cache
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\obj\Debug\net7.0\IntStory.AssemblyInfo.cs
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\obj\Debug\net7.0\IntStory.csproj.CoreCompileInputs.cache
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\obj\Debug\net7.0\IntStory.dll
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\obj\Debug\net7.0\refint\IntStory.dll
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\obj\Debug\net7.0\IntStory.pdb
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\obj\Debug\net7.0\IntStory.genruntimeconfig.cache
+C:\Users\sverre.kallberg\Desktop\prog spel\IntStory\IntStory\obj\Debug\net7.0\ref\IntStory.dll
